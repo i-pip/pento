@@ -1,6 +1,6 @@
 # Pento
 
-🤫 Don't mind me... just learning / releaning Phoenix LiveView
+🤫 Don't mind me... just learning / relearning Phoenix LiveView
 
 ## Getting started
 
